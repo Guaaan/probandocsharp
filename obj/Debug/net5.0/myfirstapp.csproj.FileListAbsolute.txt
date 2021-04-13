@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.exe
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.deps.json
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.runtimeconfig.json
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.dll
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\ref\myfirstapp.dll
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\bin\Debug\net5.0\myfirstapp.pdb
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.dll
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\ref\myfirstapp.dll
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.pdb
+C:\Users\Usuario\Desktop\farmacia geminis\experimentos\myfirstapp\obj\Debug\net5.0\myfirstapp.genruntimeconfig.cache
